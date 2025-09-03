@@ -1,4 +1,4 @@
-# Semantic Segmentation of Mars Terrain (DeepMindset Challenge)
+# Semantic Segmentation of Mars Terrain
 
 ## Project Overview
 This project was developed as part of the Artificial Neural Networks course (Politecnico di Milano).  
